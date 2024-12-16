@@ -18,7 +18,7 @@ A collaborative leader with exceptional communication skills, I excel in working
 ## Professional Experience
 
 ### **Technical Architect**  
-**Symphonize Inc. | Cupertino, CA**  
+**Symphonize, Inc. | Roseville, CA**  
 *2023 – Present*  
 - Lead the architecture and delivery of **cloud-native solutions** leveraging **scalable infrastructure** and emerging technologies, focusing on **integrating AI/ML capabilities** into business solutions.  
 - Actively exploring new **AI/ML tools** and frameworks (e.g., **Generative AI**, **NLP**) to enhance **automation**, **data processing**, and **enterprise systems**.  
@@ -28,11 +28,12 @@ A collaborative leader with exceptional communication skills, I excel in working
 **Key Achievements**:  
 - Delivered a **cloud-based platform** leveraging **AI-driven automation** tools, enhancing system performance and reducing manual effort by 30%.  
 - Introduced new technologies (e.g., **containerized AI services**) to enable AI-driven models to be deployed across scalable, cloud-based infrastructures.
+- Architected and implemented a scalable, containerized entitlement management solution using Docker Swarm, Java, and Spring Boot.
 
 ---
 
 ### **Principal Engineer**  
-**Outward Inc. | San Jose, CA**  
+**Outward, Inc. | San Jose, CA**  
 *2022 – 2023*  
 - Designed and implemented scalable architecture solutions for **cloud-native applications**, including the deployment of **microservices** and **serverless frameworks** to support the integration of **AI-driven capabilities**.  
 - Led the technical evaluation of new **AI technologies**, identifying opportunities for leveraging **Generative AI** models to automate customer engagement and operational efficiencies.  
@@ -182,22 +183,30 @@ A collaborative leader with exceptional communication skills, I excel in working
 
 ## Projects
 
-### **Generative AI for Business Automation**  
-**Role**: Lead Architect | **Tools**: Python, TensorFlow, AWS  
-- Led the development of a **Generative AI platform** designed to automate repetitive business workflows, including document processing and customer interaction systems.  
-- Deployed **NLP models** to analyze and generate content, reducing manual effort by 40% and improving customer satisfaction by offering personalized support.  
+### **Generative AI-Powered Applicant Tracking System**  
+**Role**: Technical Architect | **Tools**: Python, FastAPI, Gemini, GCP, TypeScript, Next.js  
+- Led the development of ATS using **Google Generative AI platform** designed to preprocess documents using **prompt engineering** to convert text to json for feature extraction to find matching documents on a certain criteria.  
+- Deployed **NLP models** to analyze and generate content, reducing manual effort and improving customer satisfaction by offering personalized support.  
 - Oversaw the design of an **AI-driven chat system** that incorporated **Generative AI** to provide real-time customer service on multiple platforms.
 
 ### **Cloud Migration & AI Model Integration**  
 **Role**: Technical Lead | **Tools**: AWS, Kubernetes, Docker  
 - Directed the **cloud migration** of legacy applications to a scalable **AWS-based architecture**, optimizing AI model deployment through **Kubernetes**-managed containerized services.  
-- Integrated **AI/ML models** into the migrated systems to improve customer insights and automate backend processes, reducing operational costs by 30%.
+- Integrated **AI/ML models** into the migrated systems to improve customer insights and automate backend processes, reducing operational costs.
 
-### **AI-Driven Threat Detection System**  
-**Role**: Principal Engineer | **Tools**: Python, PyTorch, AWS  
-- Architected and implemented an **AI-driven security solution** to detect and respond to system anomalies in real time.  
-- Integrated **machine learning algorithms** to identify patterns in security data and alert security teams to potential threats before they could escalate.  
-- Achieved a 20% reduction in false positives and significantly improved incident response time.
+### **AI-Driven Price Detection**  
+**Role**: Principal Engineer | **Tools**: Python, AWS  
+- Architected and implemented an **AI-driven price detection** to detect and respond to predict prices based on analysing the news leveraging sentiment analysis.  
+- Integrated **machine learning algorithms** to identify patterns in pricing data.  
+
+### **Expert Advisor for forex trading**
+**Role**: Principal Engineer | **Tools**: C#  
+- Implemented an **Expert Advisor** to execute trades based on predefined rules, without requiring constant human intervention, on trading platforms Meta Trader 4 (MT4) and Meta Trader 5 (MT5).  
+- The EA was backtested on historical data to assess the profitability and the risk.
+
+### **Chatbot for travel**
+**Role**: Senior Software Engineer | **Tools**: Jabber, Java, MIT Galaxy (NLP)
+- Implemented jabber based chatbot to plan and book travel, which includes listing flights, flight information retrieval, and ability to make reservations.
 
 ---
 
@@ -210,21 +219,22 @@ Jawaharlal Nehru Technological University, Kakinada, AP, India — *1992*
 
 ---
 
-## Certifications  
-- **AWS Certified Solutions Architect – Professional**  
-- **Certified Kubernetes Administrator (CKA)**  
-- **AI/ML for Business Leaders** – [Institution]  
-- **Responsible AI Certification** – [Institution]  
+## Technical Skills  
+- **AI/ML Enabling Technologies**: Google Gemini, OpenAI, llama models  
+- **Cloud Platforms**: GCP, AWS, Kubernetes, Docker  
+- **Scalable Systems**: Microservices
+- **Infrastructure as Code**: Terraform
+- **Programming Languages**: Python, TypeScript, Java, C/C++, Ruby  
+- **Databases**: MongoDB, PostgreSQL, MySQL  
 
 ---
 
-## Technical Skills  
-- **AI/ML Enabling Technologies**: TensorFlow, PyTorch, Keras, Hugging Face, NLP  
-- **Cloud Platforms**: AWS, Kubernetes, Docker  
-- **Scalable Systems**: Microservices, Kubernetes, Docker  
-- **Infrastructure as Code**: Terraform, CloudFormation  
-- **Programming Languages**: Python, Java, C/C++, Ruby  
-- **Databases**: MongoDB, PostgreSQL, MySQL  
+### Patents
+
+* **Methods, systems, and articles of manufacture for re-accommodating passengers following a travel disruption**
+  * US 2003/0225,600 - December 4, 2003
+* **Methods, systems, and articles of manufacture for providing fare trend information**
+  * US 2003/0069,747 - April 10, 2003
 
 ---
 
